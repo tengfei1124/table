@@ -1,0 +1,23 @@
+a{
+    text-decoration: none;
+}
+table{
+    width:600px;
+    margin:0 auto;
+    border-collapse: collapse;
+}
+td,th{
+    height:30px;
+    border:1px solid #000;
+    text-align: center;
+}
+.add{
+    display: block;
+    width:598px;height:30px;
+    border:1px solid red;
+    border-top: 0;
+    margin:0 auto;
+    text-align: center;
+    line-height: 30px;
+    /*text-decoration: none;*/
+}
